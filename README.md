@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshveerapathiran&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshveerapathiran" /> </p>
 
-- 🔭 I’m currently working on **machine learning**
+- 🔭 I’m currently working on **REACT**
 
 - 🌱 I’m currently learning **cloud skill**
 
-- 🤝 I’m looking for help with **machine learning**
+- 🤝 I’m looking for help with **NETWORKING**
 
 - 📫 How to reach me **yogesh.v.s2004@gmail.com**
 
